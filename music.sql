@@ -6,6 +6,7 @@ order by title asc;
 
  select title, milliseconds 
 
+<<<<<<< HEAD
  afbhjsfhjwb fa
 
 
@@ -20,3 +21,6 @@ order by title asc;
 
 
 kanfkn jkaiqwoj foijwkf jdq
+=======
+Vi er her senest til 16:15 i dag pls
+>>>>>>> 515e9b1 (Ændret samme kode)
