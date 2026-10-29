@@ -1,4 +1,4 @@
-select   title, release_date, riaa_certificate
+select   title, release_date
 from     albums
 join     artists using (artist_id)
 where    stage_name = 'Metallica'
